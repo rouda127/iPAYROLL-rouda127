@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 08 02:43:28 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-018e-bc72-904e-00003f48d0e0 
+on database directory /Users/rzanouda/Desktop/2203/assignments/Assignment4/iPAYROLL/iPAYROLLDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@12edcd21 
+Loaded from file:/Users/rzanouda/Desktop/2203/labs/6/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.1+12-29
+user.dir=/Users/rzanouda/Desktop/2203/assignments/Assignment4/iPAYROLL
+os.name=Mac OS X
+os.arch=x86_64
+os.version=14.3.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
